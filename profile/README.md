@@ -46,6 +46,8 @@
 ### 3.1. 최종 ERD
 
 * **ERD 다이어그램**: [ERDCloud 바로가기](https://www.erdcloud.com/d/xkfSpzL2LrRQyCShx)
+<img width="1249" height="777" alt="스크린샷 2025-12-07 오후 5 47 57" src="https://github.com/user-attachments/assets/1416f5f3-8ad5-48f7-8792-28764dd8e595" />
+<img width="1390" height="822" alt="스크린샷 2025-12-07 오후 5 49 01" src="https://github.com/user-attachments/assets/d9e0d195-88b2-49f8-a48b-d6c2e056218b" />
 
 ### 3.2. ERD 설명 및 설계 원칙
 

@@ -421,5 +421,4 @@ docker-compose up -d
 
 ## 13. 시연 영상
 
-[https://www.youtube.com/watch?v=1vApNttVxVg](https://www.youtube.com/watch?v=1vApNttVxVg)
-[![Video Label](http://img.youtube.com/vi/1vApNttVxVg/0.jpg)](https://www.youtube.com/watch?v=1vApNttVxVg)
+[![시연 영상](https://img.youtube.com/vi/1vApNttVxVg/maxresdefault.jpg)](https://www.youtube.com/watch?v=1vApNttVxVg)
